@@ -47,3 +47,14 @@ and `github` link. An empty url keeps the button disabled, so no fake links are 
 - `prefers-reduced-motion` is respected (3D scene stops animating, entrance animations off).
 - If WebGL is unavailable, a CSS-only version of the hero scene is shown.
 - Fonts (Sora, DM Sans) load from Google Fonts; system fonts are used if offline.
+
+
+
+
+
+## TO Run That Project 
+- Extract File 
+- Open Terminal
+- npm install
+- npm run dev
+
